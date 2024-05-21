@@ -9,7 +9,7 @@
   },
   "sdkVersions": {
     "ios": {
-      "firebase": "~> 8.12.1"
+      "firebase": "~> 10.3.0"
     }
   },
   "repository": {
